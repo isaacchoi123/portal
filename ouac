@@ -1,0 +1,19 @@
+ <div id="courseSummaryContainer" class="tab"><table cellspacing="0"
+    class="summaryTable courseSummary smallFontTable"
+    summary="List of courses taken"><thead><tr><th>Course Code</th><th>Course Description</th><th>Completion Date</th><th>Credit</th><th>Grade</th><th>Grade Type</th></tr></thead><tbody><tr class="row-even"><td>ENG3UA</td><td>English</td><td>201608</td><td>0100</td><td>081</td><td>Final</td>            </tr>
+            <tr class="row-odd"><td>ENG4UA</td><td>English</td><td>201708</td><td>0100</td><td>093</td><td>Final</td>            </tr>
+            <tr class="row-even"><td>HRT3M1</td><td>Wld Religions:Blfs, Issues, Tradition</td><td>201702</td><td>0100</td><td>074</td><td>Final</td>            </tr>
+            <tr class="row-odd"><td>HZT4U1</td><td>Philosophy: Questions and Theories</td><td>201802</td><td>0100</td><td>084</td><td>Final</td>            </tr>
+            <tr class="row-even"><td>MAP4C1</td><td>College & Appren&#x00AD;ticeship Math</td><td>201802</td><td>0100</td><td>096</td><td>Final</td>            </tr>
+            <tr class="row-odd"><td>MCF3M1</td><td>Functions and Applic&#x00AD;ations</td><td>201702</td><td>0100</td><td>081</td><td>Final</td>            </tr>
+            <tr class="row-even"><td>MCR3U1</td><td>Functions</td><td>201706</td><td>0100</td><td>070</td><td>Final</td>            </tr>
+            <tr class="row-odd"><td>MHF4U1</td><td>Advanced Functions</td><td>201806</td><td>0100</td><td>087</td><td>Midterm</td>            </tr>
+            <tr class="row-even"><td>PAF3OM</td><td>Personal and Fitness Activities</td><td>201702</td><td>0100</td><td>083</td><td>Final</td>            </tr>
+            <tr class="row-odd"><td>PPL3OM</td><td>Healthy Active Living Education</td><td>201706</td><td>0100</td><td>088</td><td>Final</td>            </tr>
+            <tr class="row-even"><td>PSK4U1</td><td>Introd&#x00AD;uctory Kinesiology</td><td>201806</td><td>0100</td><td>092</td><td>Midterm</td>            </tr>
+            <tr class="row-odd"><td>SBI3U1</td><td>Biology</td><td>201706</td><td>0100</td><td>073</td><td>Final</td>            </tr>
+            <tr class="row-even"><td>SBI4U1</td><td>Biology</td><td>201806</td><td>0100</td><td>085</td><td>Midterm</td>            </tr>
+            <tr class="row-odd"><td>SBI4U1</td><td>Biology</td><td>201802</td><td>0100</td><td>077</td><td>Final</td>            </tr>
+            <tr class="row-even"><td>SPH3U1</td><td>Physics</td><td>201706</td><td>0100</td><td>072</td><td>Final</td>            </tr>
+            <tr class="row-odd"><td>SPH4U </td><td>Physics</td><td>201806</td><td>0100</td><td>088</td><td>Midterm</td>            </tr>
+            <tr class="row-even"><td>TDV3M1</td><td>Tech Design: Interior Design</td><td>201702</td><td>0100</td><td>080</td><td>Final</td>            </tr>
